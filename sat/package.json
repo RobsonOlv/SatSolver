@@ -1,0 +1,23 @@
+{
+  "name": "sat",
+  "version": "1.0.0",
+  "description": "AAAAAAa",
+  "main": "sat_modelo.js",
+  "dependencies": {
+    "satsolver": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandocastor/sat.git"
+  },
+  "author": "Robson Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandocastor/sat/issues"
+  },
+  "homepage": "https://github.com/fernandocastor/sat#readme"
+}
